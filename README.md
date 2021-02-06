@@ -1,2 +1,2 @@
 # algorithmic_trading
-Three scripts to inform stock trading decisions using python
+Three files are three scripts that perform some basical algorithmic trading to inform stock trading decisions. 
